@@ -1,11 +1,19 @@
-# speakeasy
+# SpeakEasy
 
-This is a Whatsapp application that takes a voice input from the user and translates the audio to text.
+SpeakEasy is a WhatsApp application designed to convert voice as well as graphical image inputs from users into text. This application leverages AWS cloud infrastructure and Twilio's WhatsApp integration to provide seamless voice-to-text translation within WhatsApp and the entire cloud infrastructure has been spinned up using Terraform.
 
-This is a terraform code for entire infrastructure spinup on AWS cloud platform and Twilio for Whatsapp Integrqation.
+## Architecture
 
-## Usage
+![Alt text](./Speak%20Easy%20Architecture.png)
 
+
+## Access the Project
+
+The live project can be accessed at the following URL:
+
+[Whatsapp URL](https://api.whatsapp.com/send?phone=14155238886&text=join%20wild-useful)
+
+Send the default code already the message box to get started. Happy Speaking !
 
 ## Prerequisites
 
@@ -39,10 +47,6 @@ TWILIO ACCOUNT SID=
 
 - Run `terraform destroy` to destroy the infrastructure
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 ## Acknowledgments
 
 - [Terraform](https://www.terraform.io/)
@@ -51,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- [ROUNAK]() - Initial work
+- [ROUNAK](https://www.rounaknayee.github.io/)
 
 
