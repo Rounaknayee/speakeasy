@@ -1,0 +1,8 @@
+Main API SID for Twilio:
+
+SK93b7c1006c0bb6f5d5b1a7d5fae8e88c
+
+Main Secret:
+
+XR1cj5cWekrh1YNRsZZYkk7lE1oeJtd5
+
